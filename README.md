@@ -2,7 +2,8 @@
 <tr>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github.com/user-attachments/assets/a741cce4-efc0-4373-a759-53703e6cc8cf" width="100%" alt="Profile Art"/>
+<img width="449" height="483" alt="Screenshot 2026-07-11 021728" src="https://github.com/user-attachments/assets/68dde1bc-37ae-4c92-9012-36adf8c57ab2" />
+
 
 </td>
 <td width="55%" valign="top">
