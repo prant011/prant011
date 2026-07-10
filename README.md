@@ -8,7 +8,7 @@
 <td width="55%" valign="top">
 
 ```
-yourname
+Farhin Ahmed Pranto
 ────────────────────────────────────────────────────
 Languages.Programming:  C++, Python, JavaScript
 Languages.Computer:     Bash, SQL
