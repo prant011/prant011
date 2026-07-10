@@ -37,10 +37,5 @@ Lines of Code:          0
 
 <br/>
 
-## 👾 Pac-Man Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prant011/prant011/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prant011/prant011/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prant011/prant011/output/pacman-contribution-graph.svg">
-</picture>
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prant011/prant011/output/pacman-contribution-graph.svg" width="100%">
