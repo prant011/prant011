@@ -8,9 +8,9 @@
 <td width="55%" valign="top">
 
 ```
-yourname
+Farhin Ahmed Pranto
 ────────────────────────────────────────────────────
-Languages.Programming:  C++, Python, JavaScript
+Languages.Programming:  C, C++, Python, JavaScript, Java
 Languages.Computer:     Bash, SQL
 Languages.Real:         English, Bangla
 IDE:                    VS Code, CLion
