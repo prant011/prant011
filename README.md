@@ -25,10 +25,10 @@ Discord:                yourname#0000
 GitHub Stats
 ────────────────────────────────────────────────────
 Repos:                  6
-Commits:
+Commits:                62
 Stars:                  20
 Followers:              3
-Lines of Code:
+Lines of Code:          3179
 ```
 
 </td>
