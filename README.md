@@ -21,9 +21,10 @@ Email.Personal:         you@example.com
 Email.Work:              work@example.com
 LinkedIn:               linkedin.com/in/yourname
 Discord:                yourname#0000
+```
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prant011&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
-```
+
 </td>
 </tr>
 </table>
