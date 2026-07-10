@@ -10,17 +10,17 @@
 ```
 Pranto Ahmed
 ────────────────────────────────────────────────────
-Languages.Programming:  C++, Python, JavaScript
-Languages.Computer:     Bash, SQL
-Languages.Real:         English, Bangla
-IDE:                    VS Code, CLion
+Languages.Programming:  C++,C,Python,JavaScript,Java
+Languages.Computer:     HTML,CSS,JSON,YAML,XML,SQL,LaTeX
+Languages.Real:         English,Bangla
+IDE:                    VSCode,IntelliJ IDEA,Android Studio
 
 Contact
 ────────────────────────────────────────────────────
-Email.Personal:         you@example.com
-Email.Work:              work@example.com
-LinkedIn:               linkedin.com/in/yourname
-Discord:                yourname#0000
+Email.Personal:         farhinahmed71@gmail.com
+Email.Work:             farhin.pranto@northsouth.edu
+LinkedIn:               linkedin.com/in/farhin-ahmed-pranto
+Discord:                V4MPINE#3635
 
 GitHub Stats
 ────────────────────────────────────────────────────
