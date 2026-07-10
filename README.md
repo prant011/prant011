@@ -22,9 +22,9 @@ Contact
 ────────────────────────────────────────────────────
 Email.Personal:         farhinahmed71@gmail.com
 Email.Work:             farhin.pranto@northsouth.edu
-LinkedIn:               [farhin-ahmed-pranto](https://linkedin.com/in/farhin-ahmed-pranto)
+LinkedIn:               linkedin.com/in/farhin-ahmed-pranto
 Discord:                V4MPINE#3635
-Personal Website:       [prantoahmed.netlify.app](https://prantoahmed.netlify.app/)
+Personal Website:       prantoahmed.netlify.app
 
 GitHub Stats
 ────────────────────────────────────────────────────
