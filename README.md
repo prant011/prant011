@@ -39,7 +39,6 @@ Lines of Code:          3179
 </tr>
 </table>
 
-## 👾Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prant011/prant011/output/pacman-contribution-graph-dark.svg">
