@@ -30,10 +30,10 @@ Personal Website:       prantoahmed.netlify.app
 GitHub Stats
 ────────────────────────────────────────────────────
 Repos:                  6
-Commits:                62
+Commits:                69
 Stars:                  20
 Followers:              3
-Lines of Code:          3179
+Lines of Code:          3182
 ```
 
 </td>
