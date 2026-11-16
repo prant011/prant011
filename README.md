@@ -32,7 +32,7 @@ GitHub Stats
 Repos:                  7
 Commits:                80
 Stars:                  43
-Followers:              3
+Followers:              4
 Lines of Code:          29667
 ```
 
