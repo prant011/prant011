@@ -31,7 +31,7 @@ GitHub Stats
 ────────────────────────────────────────────────────
 Repos:                  7
 Commits:                80
-Stars:                  52
+Stars:                  53
 Followers:              2
 Lines of Code:          29667
 ```
