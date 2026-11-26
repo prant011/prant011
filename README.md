@@ -1,13 +1,3 @@
-<table>
-<tr>
-<td width="45%" valign="top" align="center">
-
-<img width="449" height="483" alt="Screenshot 2026-07-11 021728" src="https://github.com/user-attachments/assets/68dde1bc-37ae-4c92-9012-36adf8c57ab2" />
-
-
-</td>
-<td width="55%" valign="top">
-
 ```
 Pranto Ahmed
 ────────────────────────────────────────────────────
@@ -35,11 +25,6 @@ Stars:                  57
 Followers:              2
 Lines of Code:          29667
 ```
-
-</td>
-</tr>
-</table>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/prant011/prant011@output/pacman-contribution-graph-dark.svg">
