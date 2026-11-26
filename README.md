@@ -17,13 +17,6 @@ LinkedIn:               linkedin.com/in/farhin-ahmed-pranto
 Discord:                V4MPINE#3635
 Personal Website:       prantoahmed.netlify.app
 
-GitHub Stats
-────────────
-Repos:                  7
-Commits:                80
-Stars:                  57
-Followers:              2
-Lines of Code:          29667
 ```
 
 <picture>
