@@ -1,6 +1,6 @@
 ```
 Pranto Ahmed
-────────────────────────────────────────────────────
+────────────
 Languages.Programming:  C++,C,Python,JavaScript,
                         Java
 Languages.Computer:     HTML,CSS,JSON,YAML,XML,SQL,
@@ -10,7 +10,7 @@ IDE:                    VSCode,IntelliJ IDEA,
                         Android Studio
 
 Contact
-────────────────────────────────────────────────────
+───────
 Email.Personal:         farhinahmed71@gmail.com
 Email.Work:             farhin.pranto@northsouth.edu
 LinkedIn:               linkedin.com/in/farhin-ahmed-pranto
@@ -18,7 +18,7 @@ Discord:                V4MPINE#3635
 Personal Website:       prantoahmed.netlify.app
 
 GitHub Stats
-────────────────────────────────────────────────────
+────────────
 Repos:                  7
 Commits:                80
 Stars:                  57
